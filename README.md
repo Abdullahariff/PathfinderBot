@@ -1,4 +1,3 @@
-PathfinderBot
 PathfinderBot is a Python-based simulation of a rescue robot that uses the A* search algorithm to navigate a grid and reach all designated targets while avoiding obstacles. This project demonstrates intelligent pathfinding in a discrete environment using Manhattan distance as a heuristic.
 
 Features
